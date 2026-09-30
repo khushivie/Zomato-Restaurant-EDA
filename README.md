@@ -3,7 +3,8 @@
 Cleaning, preprocessing and exploratory analysis of **9,551 Zomato restaurants across 15 countries**, from a messy raw file to statistically tested findings.
 
 ### [**View the live report →**](https://khushivie.github.io/Zomato-Restaurant-EDA/) https://khushivie.github.io/Zomato-Restaurant-EDA/
-📓 [Notebook](Zomato_Cleaning_EDA.ipynb) · 🧹 [Cleaned dataset](Zomato_cleaned.csv) · 📊 [All charts](charts/)
+📓 [Notebook](https://github.com/user-attachments/files/32861677/Zomato_Cleaning_EDA.ipynb) · 🧹 [Cleaned dataset](https://github.com/user-attachments/files/32861825/Zomato_cleaned.csv) · 📊 [Uploading charts…]()
+
 
 <img width="2189" height="626" alt="04_price_vs_rating" src="https://github.com/user-attachments/assets/c41073f4-1dae-46c1-ba52-d9e5e3b7e124" />
 
